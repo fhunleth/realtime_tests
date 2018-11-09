@@ -51,3 +51,8 @@ cpu_workers,min_latency_ms,max_latency_ms,mean_latency_ms,stdev_latency_ms
 ## Results
 
 See [LOGS.md](logs.md) for raw data.
+
+## Further reading
+
+* [Implementation and Evaluation of IEC 61499 Basic Function Blocks in Erlang](https://ieeexplore.ieee.org/abstract/document/8502470)
+
